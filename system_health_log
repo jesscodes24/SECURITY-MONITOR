@@ -16,3 +16,43 @@ CPU Usage: 30.7%
 Memory Usage: 88.4%
  ALERT: Memory usage is above recommended threshold!
 ----------------------------------------
+Date: 2026-06-02
+Time: 16:49:57
+CPU Usage: 47.5%
+Memory Usage: 85.4%
+ ALERT: Memory usage is above recommended threshold!
+----------------------------------------
+Date: 2026-06-02
+Time: 17:35:10
+CPU Usage: 17.4%
+Memory Usage: 88.5%
+ ALERT: Memory usage is above recommended threshold!
+----------------------------------------
+Date: 2026-06-02
+Time: 17:57:23
+CPU Usage: 34.3%
+Memory Usage: 88.3%
+ ALERT: Memory usage is above recommended threshold!
+----------------------------------------
+Date: 2026-06-03
+Time: 10:14:36
+CPU Usage: 62.4%
+Memory Usage: 89.4%
+ ALERT: Memory usage is above recommended threshold!
+----------------------------------------
+Date: 2026-06-03
+Time: 10:19:07
+CPU Usage: 51.6%
+Memory Usage: 87.3%
+ ALERT: Memory usage is above recommended threshold!
+----------------------------------------
+IP Check: 118.25.6.39
+ Country: CN Abuse score: 0/100 Total reports: 4 Status: tick clean----------------------------------------
+Date: 2026-06-03
+Time: 10:33:24
+CPU Usage: 28.3%
+Memory Usage: 88.1%
+ ALERT: Memory usage is above recommended threshold!
+----------------------------------------
+IP Check: 118.35.9.40
+ Country: KR Abuse score: 0/100 Total reports: 0 Status: tick clean----------------------------------------
